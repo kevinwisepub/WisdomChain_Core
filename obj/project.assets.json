@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Work/Intell/codedev/WisdomCore/WisedomCore.csproj",
+      "projectUniqueName": "/Users/mac/Work/Intell/codedev/WisedomChain_Core/WisedomCore.csproj",
       "projectName": "WisedomCore",
-      "projectPath": "/Users/mac/Work/Intell/codedev/WisdomCore/WisedomCore.csproj",
+      "projectPath": "/Users/mac/Work/Intell/codedev/WisedomChain_Core/WisedomCore.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Work/Intell/codedev/WisdomCore/obj/",
+      "outputPath": "/Users/mac/Work/Intell/codedev/WisedomChain_Core/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
