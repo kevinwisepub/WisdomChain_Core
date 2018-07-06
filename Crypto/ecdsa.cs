@@ -6,7 +6,7 @@ using System.Linq;
 using System.Numerics;
 using System.Security.Cryptography;
 
-namespace WisedomChain_Core.Crypto
+namespace WisdomCore.Crypto
 {
     public class Ecdsa
     {

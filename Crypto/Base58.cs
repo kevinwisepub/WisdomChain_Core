@@ -3,7 +3,7 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 
-namespace WisedomChain_Core.Crypto
+namespace WisdomCore.Crypto
 {
     public static class Base58
     {

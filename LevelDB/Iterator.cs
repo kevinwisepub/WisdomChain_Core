@@ -32,7 +32,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace WisedomChain_Core.LevelDB
+namespace WisdomCore.LevelDB
 {
     /// <summary>
     /// DB Iterator

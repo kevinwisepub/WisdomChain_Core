@@ -34,7 +34,7 @@ using System;
 using System.Text;
 using System.Runtime.InteropServices;
 
-namespace WisedomChain_Core.LevelDB
+namespace WisdomCore.LevelDB
 {
     /// <summary>
     /// Native method P/Invoke declarations for LevelDB
