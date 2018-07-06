@@ -31,7 +31,7 @@
 //  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 using System;
 
-namespace WisedomChain_Core.LevelDB
+namespace WisdomCore.LevelDB
 {
     /// <summary>
     /// Write options
