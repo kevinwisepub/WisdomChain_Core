@@ -36,7 +36,7 @@ namespace WisdomCore.Test
         }
 
         [Fact]
-        public void EdchTest()
+        public void EcdhTest()
         {
             RandomNumberGenerator random = RNGCryptoServiceProvider.Create();
             byte[] bAlicePriKey = new byte[32];
