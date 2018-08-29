@@ -4,9 +4,9 @@ namespace WisdomCore.RPC
 {
     public class HttpServer
     {
-        public  HttatitpServer(){}
+        public  HttpServer(){}
 
-        public static void StartHttpListener(){};
+        public static void StartHttpListener(){}
     }
 
 }
