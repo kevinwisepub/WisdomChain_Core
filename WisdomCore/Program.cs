@@ -1,4 +1,5 @@
 ﻿using System;
+using WisdomCore.RPC;
 
 namespace WisdomCore
 {
@@ -11,8 +12,11 @@ namespace WisdomCore
 
             //init wallet
 
-
+            HttpServer.StartHttpListener();
             Console.WriteLine("Wisedom startup successfully");
+
+            Console.ReadLine();
+            HttpServer.StopHttpListener();
         }
     }
 }
